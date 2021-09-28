@@ -1,0 +1,37 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    
+    border-radius: 5px;
+border-width: 3px;
+border-color: yellow;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    border: 1px solid grey;
+    border-color: yellow;
+    border-radius: 100px;
+    border-width: 3px;
+}
+body{
+    background-color: aqua;
+
+
+}
+.h4{
+    font-family: cursive;
+    color: rgb(211, 64, 224);
+
+}
